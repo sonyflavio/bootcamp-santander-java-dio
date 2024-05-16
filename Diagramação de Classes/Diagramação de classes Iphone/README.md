@@ -1,5 +1,6 @@
 # Orientação a Objetos e UML: Diagramação de Classes do iPhone
 
+
 ,------------------------.  
 |ReprodutorMusical       |  
 |------------------------|  
@@ -28,10 +29,6 @@
 |+novaAba(): void        |                                 
 |+atualizarPagina(): void|                                 
 `------------------------'     
-Este é um diagrama UML que representa a estrutura de classes e interfaces para um sistema que inclui a modelagem do iPhone, um dispositivo que incorpora funcionalidades de um reprodutor de música, um telefone e um navegador de internet. Este diagrama foi criado como parte do desafio de projeto do **Santander Bootcamp 2023 - Fullstack Java+Angular** na DIO.me.
-
-![iphone](https://raw.githubusercontent.com/SilvioCavalcantiBonfim/Diagramacao-de-Classes-do-iPhone/0.1.0/iphone.png)
-
 
 ## Descrição das Interfaces e Classes
 
