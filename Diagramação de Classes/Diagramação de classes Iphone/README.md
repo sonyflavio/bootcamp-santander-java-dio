@@ -1,6 +1,6 @@
 # Orientação a Objetos e UML: 
 
-# Diagramação de Classes do iPhone
+| Diagramação de Classes do iPhone |
   
 |ReprodutorMusical       |  
 |------------------------|  
@@ -28,7 +28,7 @@
 |+atualizarPagina(): void|                                 
     
 
-## Descrição das Classes1:
+## Descrição das Classes:
 
 ### Reprodutor Musical (ReprodutorMusical)
 
